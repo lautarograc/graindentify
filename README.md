@@ -9,4 +9,7 @@ To train this CNN, I'm going to create a scrapper bot to search Google Images fo
 
 Python is my language of choice for the entirety of this project.
 
-This readme is going to be updated as I progress with the project.
+This CNN uses a xception deep nn model with 80-20 train/test relationship and reports 
+
+I'm still trying to improve it mostly by obtaining more accurate, useful datapoints and by avoiding overfitting it. The high loss represents a difficult obstacle
+in the mission to obtain meaningful results from this image classifier.
